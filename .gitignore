@@ -5,10 +5,12 @@
 /.pnp
 .pnp.js
 
-bikeservice-backend/config/.env
+config/.env
 frontend/node_modules
 bikeservice-backend/node_modules
 socket/node_modules
+
+.env
 
 # testing
 /coverage
